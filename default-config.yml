@@ -2,7 +2,7 @@
 # Full documentation here: https://github.com/CryptoSignal/crypto-signal/blob/master/docs/config.md
 
 settings:
-  update_interval: 300
+  update_interval: 50
   market_pairs:
     - ETH/BTC
     - LTC/BTC
